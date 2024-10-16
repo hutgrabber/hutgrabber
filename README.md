@@ -30,7 +30,7 @@ I'm a passionate cybersecurity professional with a focus on offensive security a
 ## 🌐 Connect with Me
 
 - Twitter: [@hutgrabber](https://twitter.com/hutgrabber)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hutgrabber)
+- LinkedIn: [Sparsh Mehta](https://www.linkedin.com/in/hutgrabber)
 - Website: [hutgrabber.com](https://hutgrabber.com)
 - Discord Server: [Cybersecurity UMGrads](https://discord.gg/XvcwQx6Pbd)
 
