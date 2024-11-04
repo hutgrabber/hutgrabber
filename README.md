@@ -1,3 +1,4 @@
+![Small Square Purple](https://github.com/user-attachments/assets/aa694040-e8b1-4c52-b628-cd47b8c9e842)
 # Hi there, I'm 👾 Hutgrabber
 
 ## Offensive Security Practitioner | Penetration Tester | Cybersecurity Enthusiast
