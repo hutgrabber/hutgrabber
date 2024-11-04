@@ -1,7 +1,6 @@
 ![SCR-20241104-qjib](https://github.com/user-attachments/assets/b542651d-de25-4a1d-9acf-7a2be6146587)
 
-# Hi there, I'm 👾 Hutgrabber
-
+# Hi there, I'm Hutgrabber
 
 ## Offensive Security Practitioner | Penetration Tester | Cybersecurity Enthusiast
 
