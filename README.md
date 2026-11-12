@@ -16,7 +16,7 @@ I'm a passionate cybersecurity professional with a focus on offensive security a
 ## 🎓 Education & Certifications
 
 - Master's in Cybersecurity
-- Industry-recognized certifications (details on request)
+- Industry-recognized certifications
 
 ## 💼 Experience
 
