@@ -20,6 +20,7 @@ I'm a passionate cybersecurity professional with a focus on offensive security a
 
 ## 💼 Experience
 
+- Analyst at CrowdStrike
 - Teaching Assistant (part-time)
 - Professional experience in server hardening and penetration testing
 - Participant in National Cyber League competitions
